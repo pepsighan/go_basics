@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+func main() {
+	a := "apple"
+
+	switch a {
+	case "apple":
+		fmt.Println("It is an apple")
+	case "ball":
+		fmt.Println("It is a ball")
+	default:
+		fmt.Println("It is something else")
+	}
+}
