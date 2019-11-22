@@ -25,3 +25,19 @@ do {
   console.log(i);
   i++;
 } while (i < 10);
+
+// Traversing arrays and objects.
+
+// let p = [0, 1, 2];
+let p = {
+  a: 1,
+  b: 2,
+  c: 3
+};
+
+// key, value loop
+for (var key in p) {
+  if (p.hasOwnProperty(key)) {
+    console.log(key + " -> " + p[key]);
+  }
+}
