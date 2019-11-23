@@ -23,4 +23,10 @@ func main() {
 	} else {
 		// Not gonna run
 	}
+
+	// b := 1
+
+	// if b {
+	// 	fmt.Println("Does not run")
+	// }
 }
