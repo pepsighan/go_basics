@@ -8,6 +8,7 @@ func main() {
 	switch a {
 	case "apple":
 		fmt.Println("It is an apple")
+		// fallthrough
 	case "ball":
 		fmt.Println("It is a ball")
 	default:
