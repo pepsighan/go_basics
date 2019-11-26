@@ -16,3 +16,5 @@ The accompanying PPT is located at [Google Slides](https://docs.google.com/prese
 10. [References](https://github.com/pepsighan/go_basics/tree/master/10_references)
 11. [Error Handling](https://github.com/pepsighan/go_basics/tree/master/11_error_handling)
 12. [Web Server](https://github.com/pepsighan/go_basics/tree/master/12_web_server)
+
+A more real-world example of a Web Server using Echo - https://github.com/drenther/go_service
